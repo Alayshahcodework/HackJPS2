@@ -12,6 +12,6 @@
     "start": "node src/index.js"
   },
   "dependencies": {
-    // add things like "axios": "^1.5.0" if needed
+    
   }
 }
