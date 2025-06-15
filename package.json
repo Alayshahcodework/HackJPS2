@@ -1,11 +1,17 @@
 {
-  "name": "your-package-name",
+  "name": "file-summarizer-hackjps2",
   "version": "1.0.0",
+  "description": "Summarizes uploaded files",
   "main": "src/index.js",
+  "keywords": ["summarize", "file", "api", "ai"],
+  "author": "Alay Shah",
+  "license": "MIT",
+  "type": "module",
   "scripts": {
-    "build": "your-build-command-if-any"
+    "build": "echo 'No build step yet'",
+    "start": "node src/index.js"
   },
   "dependencies": {
-    // any needed libs
+    // add things like "axios": "^1.5.0" if needed
   }
 }
