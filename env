@@ -1,0 +1,9 @@
+# ── OpenAI ───────────────────────────────────────────────
+OPENAI_API_KEY=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
+
+# ── Verbwire  (⚠ use the SECRET “sk_…” key, not the public “pk_…”) ──
+VERBWIRE_KEY=sk_live_13fc0bf8-e10d-4ac1-8a12-b2231b06c0fc
+VERB_CHAIN=sepolia          # SePOLIA is the supported Ethereum testnet
+
+# ── Flask session secret ─────────────────────────────────
+SESSION_KEY=fb1c76db9ff850c587ab0736552e09c9a90e70b8e84b0e0f3532e2a0dc5e5e14
